@@ -6,3 +6,4 @@
 <a href="https://docs.google.com/presentation/d/1Wt3fhhOhGK2S6S8mwQt8p9uz7tfK6_d4wjf0DSHO7Qs/edit?usp=sharing">Aula 6 - HTML - Tabelas</a><br />
 <a href="https://docs.google.com/presentation/d/1vC6JXQQZByTHhJyhq9ILk_mG8Eo4DIXMJWkh5vybA80/edit?usp=sharing">Aula 7 - HTML - Formulários</a><br />
 <a href="https://docs.google.com/presentation/d/1XJX9vkSXCdOcGUe2I5C_dgiOt3jgwZUiLbI47tQGcGc/edit?usp=sharing">Aula 8 - HTML - Marcação extra</a><br />
+<a href="https://docs.google.com/presentation/d/1JMJkvi877Rf9MwEohGT03k-yl0hJ1i4qojEAHCSsLLM/edit?usp=sharing">Aula 9 - HTML - Flash, Vídeo e Áudio</a><br />
