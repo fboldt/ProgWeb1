@@ -10,3 +10,4 @@
 <a href="https://docs.google.com/presentation/d/1JMJkvi877Rf9MwEohGT03k-yl0hJ1i4qojEAHCSsLLM/edit?usp=sharing">Aula 9 - HTML - Flash, Vídeo e Áudio</a><br />
 <h2>CSS</h2>
 <a href="https://docs.google.com/presentation/d/1S39Nb9gtVvgw0yMn95d_Fm2jyI-WXEUFW2vdY_i6PEs/edit?usp=sharing">Aula 10 - CSS - Introdução</a><br />
+<a href="https://docs.google.com/presentation/d/16lYstU2-6sU051Nx850dgvNAUX3ZGgsTU-fAJ9EVjhY/edit?usp=sharing">Aula 11 - CSS - Cores</a><br />
