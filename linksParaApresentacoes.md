@@ -11,3 +11,6 @@
 <h2>CSS</h2>
 <a href="https://docs.google.com/presentation/d/1S39Nb9gtVvgw0yMn95d_Fm2jyI-WXEUFW2vdY_i6PEs/edit?usp=sharing">Aula 10 - CSS - Introdução</a><br />
 <a href="https://docs.google.com/presentation/d/16lYstU2-6sU051Nx850dgvNAUX3ZGgsTU-fAJ9EVjhY/edit?usp=sharing">Aula 11 - CSS - Cores</a><br />
+<a href="https://docs.google.com/presentation/d/1ZCyWmc9vNzOB-hO4Sny5KEnCKXf8ArYSm4TFgairelo/edit?usp=sharing">Aula 12 - CSS - Texto</a><br />
+<a href="https://docs.google.com/presentation/d/1_QPtl9GwpVfb4R9E5r5HB7DgObbvkPxrMXmVQjIuxHg/edit?usp=sharing">Aula 13 - CSS - Caixas</a><br />
+<a href="https://docs.google.com/presentation/d/1vE6IWY_LVrFBCWxyGeg1O7YoLUxIYFKADSMS6SINxlk/edit?usp=sharing">Aula 14 - CSS - Listas, Tabelas & Formulários</a><br />
