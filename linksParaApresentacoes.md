@@ -14,3 +14,4 @@
 <a href="https://docs.google.com/presentation/d/1ZCyWmc9vNzOB-hO4Sny5KEnCKXf8ArYSm4TFgairelo/edit?usp=sharing">Aula 12 - CSS - Texto</a><br />
 <a href="https://docs.google.com/presentation/d/1_QPtl9GwpVfb4R9E5r5HB7DgObbvkPxrMXmVQjIuxHg/edit?usp=sharing">Aula 13 - CSS - Caixas</a><br />
 <a href="https://docs.google.com/presentation/d/1vE6IWY_LVrFBCWxyGeg1O7YoLUxIYFKADSMS6SINxlk/edit?usp=sharing">Aula 14 - CSS - Listas, Tabelas & Formulários</a><br />
+<a href="https://docs.google.com/presentation/d/1VzAzOIc03Qu6d6zaifGJIuO_HPkvp7IkWTgHym744qQ/edit?usp=sharing">Aula 15 - CSS - Layouts</a><br />
